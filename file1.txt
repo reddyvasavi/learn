@@ -5,8 +5,6 @@ ninja
 this is ninja
 reddy
 reddy
-<<<<<<< HEAD
 ninja 
 studied in anna univ
 course it
->>>>>>> 4dd34d9bf043d5d7fb5b9b1590dd60232ee77cc0
