@@ -23,3 +23,7 @@ Chennai
 Hyd
 Bang
 Kerala
+Tamil
+Telugu
+Kanada
+Hindi
