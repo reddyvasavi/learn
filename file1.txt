@@ -13,3 +13,4 @@ ninja
 studied in anna univ
 course it
 Tamil
+Telugu
