@@ -1,6 +1,10 @@
+file1
 reddy
 reddy
 reddy
+Kandluri
+Reddy
+Vasavi
 This is reddy
 From chennai
 Born in kadapa
@@ -12,5 +16,7 @@ reddy
 ninja 
 studied in anna univ
 course it
-Tamil
-Telugu
+Chennai
+Hyd
+Bang
+Kerala
